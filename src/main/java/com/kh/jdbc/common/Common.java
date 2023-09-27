@@ -55,7 +55,6 @@ public class Common {
 
         } catch (Exception e) {
             e.printStackTrace();
-
         }
     }
 
